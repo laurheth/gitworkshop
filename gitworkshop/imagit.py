@@ -5,3 +5,4 @@ import mysillypicture
 if __name__ == "__main__":
     print(mysillystory.story.encode("utf8"))
     print(mysillypicture.picture.encode("utf8"))
+    print("This is a terrible story sorry")
